@@ -16,8 +16,8 @@ Do **not** use this tab to encode run-level details (replicates, dates, flow rat
 - `Niclosamide`
 - `Colistin sulfate`
 - `Lysozyme`
-- 'Mannitol' or 'PVP' if working with an API-free control
-- If a mixture of two APIs is used, include both in the product name (e.g., niclosamide_colistin-sulfate) 
+- `Mannitol` or `PVP` if working with an API-free control
+- If a mixture of two APIs is used, include both in the product name (e.g., `niclosamide_colistin-sulfate`) 
 
 **Do NOT include:**
 - excipients (e.g., PVP, leucine, mannitol) - The exception to this is if no API is present. In this case, use the excipient with the highest % as the product name

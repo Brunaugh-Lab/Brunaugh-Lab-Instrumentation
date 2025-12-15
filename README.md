@@ -46,7 +46,7 @@ docs/
 ├── measurement_setting_fields.md
 ├── templates_and_sops.md
 ├── data_export_and_naming.md
-└── conceptual_overview.m
+└── conceptual_overview.md
 ```
 Each document is intended to be:
 - readable directly in GitHub

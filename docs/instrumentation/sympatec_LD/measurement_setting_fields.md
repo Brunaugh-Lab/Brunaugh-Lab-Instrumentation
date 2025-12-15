@@ -18,7 +18,7 @@ Do **not** use this tab to encode run-level details (replicates, dates, flow rat
 - `Lysozyme`
 
 **Do NOT include:**
-- excipients (e.g., PVP, leucine, mannitol)
+- excipients (e.g., PVP, leucine, mannitol) - The exception to this is if the composition is comprised solely of an inactive ingredient
 - processing method
 - formulation ratios
 - DOE identifiers

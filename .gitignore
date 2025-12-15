@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor / temp files
+*.swp
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
